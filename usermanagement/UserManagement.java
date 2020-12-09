@@ -40,7 +40,7 @@ public class UserManagement {
         int menu = 0;
 
         do {
-            System.out.print("Stack Menu Selections |1. Add User"
+            System.out.print("Hashmap Menu Selections |1. Add User"
                     + " |2. Find User "
                     + " |3. List Users |4. Remove User |5. Exit: ");
             menu = Integer.parseInt(scan.next());
